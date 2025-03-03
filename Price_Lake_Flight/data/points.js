@@ -5,7 +5,7 @@ var point = {
         "properties": {
             "name": "Start Point",
             "description": "Where drone began collecting sonar data. The image below is from a previous flight but shows how the tethered sonar looks. The silver sensor sits just below the water line to collect sonar data.",
-            "image": "Price_Lake_Flight/data/images/sonar_tether.jpg"
+            "image": "data/images/launch_area.png"
         },
         "geometry": {
             "coordinates": [-81.73175628096352, 36.13882671464289],
@@ -29,7 +29,7 @@ var point = {
         "properties": {
             "name": "Observation Area",
             "description": "Due to the launch site being behind a stand of trees, the drone was flown over them before we moved to get a clear view of the flight on the trail. "
-            "image": "data/images/observation.png"
+            "image": "data/images/launch_area.png"
         },
         "geometry": {
             "coordinates": [-81.73174409262474, 36.138908581441214],
