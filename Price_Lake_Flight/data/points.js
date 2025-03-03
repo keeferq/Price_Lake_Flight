@@ -28,7 +28,7 @@ var point = {
         "type": "Feature",
         "properties": {
             "name": "Observation Area",
-            "description": "Due to the launch site being behind a stand of trees, the drone was flown over them before we moved to get a clear view of the flight on the trail. "
+            "description": "Due to the launch site being behind a stand of trees, the drone was flown over them before we moved to get a clear view of the flight on the trail. ",
             "image": "data/images/observation.png"
         },
         "geometry": {
